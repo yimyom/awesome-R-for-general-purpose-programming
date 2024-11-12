@@ -29,6 +29,13 @@ You can also to the same direct from the command line:
 Rscript -e 'install.packages("a_package")'
 Rscript -e "install.packages(c('pkg1','pkg2','pkg3'))"
 ```
+# Contents
+
+- [Programming](#Programming)
+- [Games](#Games)
+- [Music](#Music)
+- [Databases](#Databases)
+- [Networking](#Networking)
 
 # List of packages
 
