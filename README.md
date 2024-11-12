@@ -13,16 +13,10 @@ This is a curated and opinionated list of R packages for general purpose program
 To install a package in R, just start `R` on the command line (or use a notebook or RStudio or any R environment of your choice) and then type:
 
 ```R
-install.packages('the_package_name')
-```
-
-You can of course install several packages at the same time with:
-
-```R
-install.packages(c('pkg1','pkg2','pkg3'))
+install.packages('the_package_name') # install one package
+install.packages(c('pkg1','pkg2','pkg3')) # install several packages
 ```
 If there are dependencies, R will install them automatically.
-
 You can also to the same direct from the command line:
 
 ```bash
