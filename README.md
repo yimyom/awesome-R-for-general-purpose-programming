@@ -8,7 +8,7 @@
 
 This is a curated and opinionated list of R packages for general purpose programming, which are not related to any of the topics above.
 
-# Get started
+## Getting started
 
 To install a package in R, just start `R` on the command line (or use a notebook or RStudio or any R environment of your choice) and then type:
 
@@ -29,7 +29,7 @@ You can also to the same direct from the command line:
 Rscript -e 'install.packages("a_package")'
 Rscript -e "install.packages(c('pkg1','pkg2','pkg3'))"
 ```
-# Contents
+## Contents
 
 - [Programming](#Programming)
 - [Games](#Games)
@@ -37,10 +37,10 @@ Rscript -e "install.packages(c('pkg1','pkg2','pkg3'))"
 - [Databases](#Databases)
 - [Networking](#Networking)
 
-# List of packages
+## List of packages
 
-## Programming
-## Games
-## Music
-## Databases
-## Networking
+### Programming
+### Games
+### Music
+### Databases
+### Networking
